@@ -1,0 +1,24 @@
+'''
+a=input("What is the value of side you want to add")
+
+def square():
+    while c<=a:
+        c=c+1
+        print( )
+for x in L:
+    if(x==max(L) or x==min(L)):
+        print(".")
+    else:
+        print(" ")
+
+print(". "*len(L))
+for x in L:
+    for y in B:
+        if():
+            if(y==max(B)):
+                print(". "*len(B))
+    if(x==max(L)):
+        print("")
+    else:
+        print(".")
+'''
